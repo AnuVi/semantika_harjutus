@@ -1,2 +1,2 @@
-semantika_harjutus
-==================
+Kodeeritud aastal 2011
+
