@@ -1,0 +1,2 @@
+semantika_harjutus
+==================
